@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90a2059d-5099-4bc6-bad8-a3be70e02879" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aMoZxRxn9ullK1qVaijlJzJ6DH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Study Material\Semester 4\Adv CV\lanenet-lane-detection-master\data" />
+      <recent name="F:\Study Material\Semester 4\Adv CV\lanenet-lane-detection-master\tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Study Material\Semester 4\Adv CV\lanenet-lane-detection-master" />
+      <recent name="F:\Study Material\Semester 4\Adv CV\lanenet-lane-detection-master\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ObjectDetectionCode">
+    <configuration name="ObjectDetectionCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lanenet-lane-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/ObjectDetectionCode.py" />
+      <option name="PARAMETERS" value="--input data/lane_traffic.avi --output test_set/lane_output.avi --yolo yolo-coco" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluate_lanenet_on_tusimple.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lanenet-lane-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="/usr/local/cuda/lib64:$LD_LIBRARY_PATH" />
+        <env name="Path" value="C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\lib;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.2\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-10.0.2\bin;C:\Program Files\Java\jdk-10.0.2\lib;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Users\mayur\Downloads\cudnn-10.1-windows10-x64-v7.5.0.56\cuda\bin\;C:\Users\mayur\Downloads\cudnn-10.1-windows10-x64-v7.5.0.56\cuda\lib\;C:\Program Files\MATLAB\R2019a\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\py4j-0.10.8.1\py4j-java\py4j0.10.8.1.jar;C:\Program Files\Java\jdk-10.0.2\lib\py4j0.10.8.1.jar;C:\Program Files\NVIDIA Corporation\Nsight Compute 2019.5.0\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\mayur\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\mayur\AppData\Local\Programs\Python\Python37\;C:\Program Files\py4j-0.10.8.1\py4j-java\py4j0.10.8.1.jar;C:\Program Files\Java\jdk-10.0.2\lib\py4j0.10.8.1.jar;C:\Users\mayur\Downloads\Softwares\chromedriver_win32\chromedriver.exe;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\extras\CUPTI\libx64\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\include\;C:\tools\cuda\bin\;" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/evaluate_lanenet_on_tusimple.py" />
+      <option name="PARAMETERS" value="--image_dir ./test_set/clips_1/ --weights_path ./model/tusimple_lanenet_vgg/tusimple_lanenet_vgg.ckpt --save_dir ./test_set/test_output" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_lanenet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lanenet-lane-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/test_lanenet.py" />
+      <option name="PARAMETERS" value="--weights_path ./model/tusimple_lanenet_vgg/tusimple_lanenet_vgg.ckpt  --image_path ./data/tusimple_test_image/3.jpg" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.evaluate_lanenet_on_tusimple.py" />
+      <item itemvalue="Python.test_lanenet" />
+      <item itemvalue="Python.ObjectDetectionCode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ObjectDetectionCode" />
+        <item itemvalue="Python.evaluate_lanenet_on_tusimple.py" />
+        <item itemvalue="Python.test_lanenet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90a2059d-5099-4bc6-bad8-a3be70e02879" name="Default Changelist" comment="" />
+      <created>1586554882638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586554882638</updated>
+      <workItem from="1586554893325" duration="6234000" />
+      <workItem from="1586804132439" duration="774000" />
+      <workItem from="1587589998884" duration="3918000" />
+      <workItem from="1587596598778" duration="2767000" />
+      <workItem from="1587601885440" duration="7266000" />
+      <workItem from="1587870557358" duration="1755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="50" width="1086" height="538" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587624100753">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state x="338" y="50" width="1086" height="538" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.764@0.0.1536.764" timestamp="1587624100753" />
+    <state x="426" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586556357895">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state x="426" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.764@0.0.1536.764" timestamp="1586556357895" />
+    <state x="617" y="81" key="EnvironmentVariablesDialog" timestamp="1587605464918">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state x="617" y="81" key="EnvironmentVariablesDialog/0.0.1536.764@0.0.1536.764" timestamp="1587605464918" />
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1587624106349">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.764@0.0.1536.764" timestamp="1587624106349" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1587624106349">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.764@0.0.1536.764" timestamp="1587624106349" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1587624106349">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.764@0.0.1536.764" timestamp="1587624106349" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1587624106349">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.764@0.0.1536.764" timestamp="1587624106349" />
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1587596165418">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom/0.0.1536.764@0.0.1536.764" timestamp="1587596165418" />
+    <state width="1493" height="256" key="GridCell.Tab.1.center" timestamp="1587596165418">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.center/0.0.1536.764@0.0.1536.764" timestamp="1587596165418" />
+    <state width="1493" height="256" key="GridCell.Tab.1.left" timestamp="1587596165418">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.left/0.0.1536.764@0.0.1536.764" timestamp="1587596165418" />
+    <state width="1493" height="256" key="GridCell.Tab.1.right" timestamp="1587596165418">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.764@0.0.1536.764" timestamp="1587596165418" />
+    <state x="279" y="29" key="SettingsEditor" timestamp="1587604386926">
+      <screen x="0" y="0" width="1536" height="764" />
+    </state>
+    <state x="279" y="29" key="SettingsEditor/0.0.1536.764@0.0.1536.764" timestamp="1587604386926" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lanenet_lane_detection_master$evaluate_lanenet_on_tusimple_py.coverage" NAME="evaluate_lanenet_on_tusimple.py Coverage Results" MODIFIED="1587608433663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/lanenet_lane_detection_master$ObjectDetectionCode.coverage" NAME="ObjectDetectionCode Coverage Results" MODIFIED="1587624106343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/lanenet_lane_detection_master$test_lanenet.coverage" NAME="test_lanenet Coverage Results" MODIFIED="1587590189221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+  </component>
+</project>
